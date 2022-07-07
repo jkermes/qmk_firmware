@@ -34,3 +34,18 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official Website
 
 [qmk.fm](https://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+
+## My keyboards
+
+### Freebird60
+
+build
+```
+qmk compile -kb keebsforall/freebird60 -km jkermes
+```
+
+flash
+```
+qmk flash -kb keebsforall/freebird60 -km jkermes
+```
+
