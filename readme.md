@@ -53,10 +53,10 @@ qmk flash -kb keebsforall/freebird60 -km jkermes
 
 build
 ```
-qmk compile -kb keebsforall/freebird60 -km jkermes
+qmk compile -kb ymdk/yd60mq -km jkermes
 ```
 
 flash (bootloader mode: CAPS_LOCK + TAB + R)
 ```
-qmk flash -kb keebsforall/freebird60 -km jkermes
+qmk flash -kb ymdk/yd60mq -km jkermes
 ```
